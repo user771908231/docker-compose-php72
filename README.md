@@ -1,5 +1,12 @@
 # php-nginx-mysql-compose
-docker-compose php + nginx + mysql
+docker-compose 
+php 
+nginx 
+mysql
+redis 
+mongo 
+zookeeper 
+kafka
 
 ## 安装docker
 
